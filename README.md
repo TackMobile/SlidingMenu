@@ -9,6 +9,8 @@ SlidingMenu is currently used in some awesome Android apps. Here's a list of som
 * [Rdio][8]
 * [Plume][4]
 * [VLC for Android][5]
+* [ESPN ScoreCenter][14]
+* [Wunderlist 2][13]
 * [The Verge][6]
 * [MTG Familiar][9]
 * [Mantano Reader][10]
@@ -168,3 +170,5 @@ License
 [10]: https://play.google.com/store/apps/details?id=com.mantano.reader.android
 [11]: https://play.google.com/store/apps/details?id=com.phonegap.MW3BarracksFree
 [12]: http://forum.xda-developers.com/showthread.php?p=34361296
+[13]: http://bit.ly/xs1sMN
+[14]: https://play.google.com/store/apps/details?id=com.espn.score_center
