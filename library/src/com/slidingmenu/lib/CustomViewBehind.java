@@ -1,8 +1,18 @@
 package com.slidingmenu.lib;
 
-import com.slidingmenu.lib.CustomViewAbove;
-import com.slidingmenu.lib.R;
-import com.slidingmenu.lib.SlidingMenu;
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.drawable.Drawable;
+import android.util.AttributeSet;
+import android.util.Log;
+import android.util.TypedValue;
+import android.view.MotionEvent;
+import android.view.View;
+import android.view.ViewGroup;
+
 import com.slidingmenu.lib.SlidingMenu.CanvasTransformer;
 
 public class CustomViewBehind extends ViewGroup {
